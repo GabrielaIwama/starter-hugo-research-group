@@ -1,5 +1,5 @@
 ---
-title: Our team is preparing for ICON 2022!
+title: Our team is going to ICON 2022!
 date: 2022-05-06
 image:
   focal_point: 'top'
