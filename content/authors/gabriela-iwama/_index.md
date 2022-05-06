@@ -1,7 +1,7 @@
 ---
 title: Gabriela Iwama
 role: Master Student
-avatar_filename: img_20220402_151212.jpg
+avatar_filename: avatar.jpg
 bio: Hi, I am Gabriela.
 interests: []
 social:
