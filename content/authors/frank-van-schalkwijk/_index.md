@@ -3,40 +3,33 @@ title: Name
 role: position
 bio: short bio
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Memory Formation
+  - Epilepsy
+  - Spatial Navigation
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:test@example.org
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-organizations:
-  - name: Stanford University
-    url: ""
+    link: https://scholar.google.com/citations?user=HNWiAFwAAAAJ
+  - icon: researchgate
+    icon_pack: fa
+    link: https://www.researchgate.net/profile/Frank-Schalkwijk
+  - icon: linkedin
+    icon_pack: fa
+    link: https://at.linkedin.com/in/frank-van-schalkwijk-9aa99758
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
-superuser: true
+    - course: PhD in Neuroscience
+      institution: University of Salzburg
+      year: 2019
+    - course: MSc in Biomedical Science
+      institution: University of Amsterdam
+      year: 2013
+    - course: BSc in Psychobiology
+      institution: University of Amsterdam
+      year: 2010
+superuser: false
 user_groups:
   - Members
 highlight_name: false
 ---
-Full bio
+I like tea, :tea: lindy hop, :dancers: and saunas. :sauna_man:

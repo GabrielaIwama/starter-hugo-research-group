@@ -1,6 +1,6 @@
 ---
-title: Name
-role: position
+title: Jan Weber
+role: PhD student
 bio: short bio
 interests:
   - Artificial Intelligence
