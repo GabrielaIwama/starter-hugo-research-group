@@ -38,5 +38,3 @@ content:
 design:
   columns: '1'
 ---
-
-Feel free to message us!
