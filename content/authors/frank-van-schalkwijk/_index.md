@@ -11,10 +11,10 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=HNWiAFwAAAAJ
   - icon: researchgate
-    icon_pack: fa
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Frank-Schalkwijk
   - icon: linkedin
-    icon_pack: fa
+    icon_pack: fab
     link: https://at.linkedin.com/in/frank-van-schalkwijk-9aa99758
 education:
   courses:
