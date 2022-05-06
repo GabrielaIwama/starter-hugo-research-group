@@ -1,6 +1,6 @@
 ---
-title: Name
-role: position
+title: Frank van Schalkwijk
+role: Postdoc Researcher
 bio: short bio
 interests:
   - Memory Formation
