@@ -36,7 +36,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Researchers
+  - Members
 highlight_name: false
 ---
 Full bio
