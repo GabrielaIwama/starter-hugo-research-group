@@ -7,7 +7,7 @@ design:
   css_style: null
   css_class: null
 ---
-<img style="float: right;" src="logo-300.jpg">
+<p align="center"><img src="logo-300.jpg"></p>
 
 
 # <p align=center> Human Intracranial Cognitive Neurophysiology</p>
