@@ -7,7 +7,7 @@ design:
   css_style: null
   css_class: null
 ---
-<p align=center><img src="assets/media/logo-300.jpg"></p>
+<p align=center><img src="screenshot.jpg"></p>
 
 
 # <p align=center> Human Intracranial Cognitive Neurophysiology</p>
