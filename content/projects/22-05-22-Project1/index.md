@@ -9,7 +9,6 @@ image:
 
 
 ---
-ggg
 <!--more-->
 
 Attention is a fundamental cognitive function necessary to efficiently translate sensory experiences into goal-directed actions. Traditionally, attention has been conceptualized as a constant spotlight that amplifies behaviorally-relevant information. Recently, several lines of inquiry probing attention on a fine-grained temporal scale revealed frequency-specific behavioral fluctuations that align with ongoing brain oscillations, indicating that attention is a discrete process. Our aim is to understand the structural and functional basis as well as the physiologic purpose of attentional rhythmic fluctuations.
