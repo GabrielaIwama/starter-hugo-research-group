@@ -1,5 +1,7 @@
 ---
-headless: true
+header:
+  caption: ""
+  image: "logo-300.png"
 weight: 10
 title:
 design:
