@@ -3,7 +3,7 @@ title: Our goal
 subtitle:
 widget: blank
 headless: true
-weight: 40
+weight: 20
 design:
   columns: '1'
 ---

@@ -9,6 +9,5 @@ design:
 ---
 {{< figure src="logo-400.png" >}}
 
-
 # <p align=center> Human Intracranial Cognitive Neurophysiology</p>
 <p align=center>From single units to large-scale networks</p>
