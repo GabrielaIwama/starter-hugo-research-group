@@ -7,8 +7,6 @@ design:
   css_style: null
   css_class: null
 ---
-<img src=/logo-300.png class="center">
-
 {{ < figure src="logo-300.png" > }}
 
 
