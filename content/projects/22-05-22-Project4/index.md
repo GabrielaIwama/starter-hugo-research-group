@@ -7,7 +7,7 @@ image:
   focal_point: 'top'
 
 ---
-
+gg
 <!--more-->
 
 How do different network states impact different behavioral states? Understanding principles of network organization is critical to understand disorders of consciousness. We will work with several patient populations to understand large-scale network mechanisms underlying reduced arousal states.

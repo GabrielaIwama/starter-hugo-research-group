@@ -9,7 +9,7 @@ image:
   focal_point: 'top'
 
 ---
-
+ggg
 <!--more-->
 
 Over the last few decades, several lines of research indicated that the prefrontal cortex (PFC) provides the structural basis for goal-directed behavior based on endogenous predictions, but its functional architecture is not well understood. Our goal is to investigate how predictions are implemented in the human brain to optimize sensory processing and goal-directed behavior.
