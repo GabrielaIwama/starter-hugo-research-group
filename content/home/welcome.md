@@ -7,9 +7,7 @@ design:
   css_style: null
   css_class: null
 ---
-<center>
-< figure src="logo-400.png" >
-</center>
+< figure src="logo-300.png" >
 
 <p align="center">
   <figure src="logo-400.png">
