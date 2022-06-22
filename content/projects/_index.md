@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Projects
 
 # Listing view
 view: compact
@@ -9,5 +9,6 @@ banner:
   caption: ''
   image: ''
 reading_time: false  # Show estimated reading time?
+share: false
 
 ---
