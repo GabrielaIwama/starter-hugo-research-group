@@ -1,5 +1,5 @@
 ---
-title: Name
+title: Randolph Helfrich
 role: position
 bio: short bio
 interests:
@@ -37,6 +37,7 @@ email: ""
 superuser: true
 user_groups:
   - Members
-highlight_name: false
+  - Principal Investigators
+highlight_name: true
 ---
 Full bio

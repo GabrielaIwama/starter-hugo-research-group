@@ -1,5 +1,5 @@
 ---
-title: Name
+title: Janna Lendner
 role: position
 bio: short bio
 interests:

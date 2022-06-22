@@ -1,5 +1,5 @@
 ---
-title: Name
+title: Markus Kopf
 role: position
 bio: short bio
 interests:
@@ -34,7 +34,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
-superuser: true
+superuser: false
 user_groups:
   - Members
 highlight_name: false
