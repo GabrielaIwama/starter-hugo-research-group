@@ -10,5 +10,6 @@ banner:
   image: ''
 reading_time: false  # Show estimated reading time?
 share: false
+show_date: false
 
 ---

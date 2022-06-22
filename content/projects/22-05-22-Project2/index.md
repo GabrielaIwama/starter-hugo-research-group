@@ -1,5 +1,7 @@
 ---
-title: Project 1
+title: Project 2
+authors:
+- isabel-raposo
 image:
   focal_point: 'top'
 

@@ -1,6 +1,7 @@
 ---
 title: Project 1
-author: gabriela-iwama
+authors:
+- gabriela-iwama
 image:
   focal_point: 'top'
 
