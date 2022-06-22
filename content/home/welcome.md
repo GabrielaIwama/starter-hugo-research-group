@@ -9,7 +9,7 @@ design:
   css_style: null
   css_class: null
 ---
-{{< figure src="logo-300.png" class="center" >}}
+<center>{{< figure src="logo-300.png" class="center" >}}</center>
 
 # <p align=center> Human Intracranial Cognitive Neurophysiology</p>
 <p align=center>From single units to large-scale networks</p>
