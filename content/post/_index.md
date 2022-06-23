@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: News
 
 # Listing view
 view: compact
@@ -8,4 +8,8 @@ view: compact
 banner:
   caption: ''
   image: ''
+
+# Show estimated reading time?
+reading_time: false
+
 ---

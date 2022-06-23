@@ -15,33 +15,28 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title:
+      content:
       align: center
       background:
         position: right
         color: '#666'
-        brightness: 0.7
+        brightness: 0.8
         media: group-picture-ice-cream.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title:
+      content:
       align: left
       background:
         position: center
         color: '#555'
-        brightness: 0.7
+        brightness: 0.8
         media: group-picture-stocherkahn.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+    - title:
+      content:
       align: right
       background:
         position: center
         color: '#333'
-        brightness: 0.5
+        brightness: 0.8
         media: group-picture-christmas.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
 ---
