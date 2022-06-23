@@ -20,7 +20,7 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net/profile/Jan-Weber-10
   - icon: file-lines
-    icon_pack: fab
+    icon_pack: fas
     link: https://helfrichlab.netlify.app/uploads/CV_Jan_Weber.pdf
 organizations:
   - name: Hertie Institute
@@ -42,6 +42,6 @@ user_groups:
   - Members
 highlight_name: false
 ---
-My research
+### My research
 
 I am a PhD candidate working at the intersection of cognitive and systems neuroscience. My work aims to identify how internal brain dynamics shape human cognition on different timescales. I seek to bridge the gap between hypothetical cognitive constructs (e.g. attention, decision-making, working memory) and try to follow a brain-based approach combined with detailed behavioral   modelling   to   identify their shared and unique neural mechanisms. In the future, I strive for a holistic approach to better understand how different internal brain states (e.g. wakefulness & sleep) are   mutually   dependent and modulate each other. I make use of intracranial EEG and M/EEG recordings combined with behavioral experiments to answer these questions.
