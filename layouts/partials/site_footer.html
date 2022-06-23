@@ -1,6 +1,6 @@
 <footer class="site-footer">
 
-  {{ partial "functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+  {{ partial "hooks/footer" . }}
 
   {{ if .IsTranslated | and site.Params.footer.show_translations }}
     <div class="powered-by d-flex flex-wrap pb-2 justify-content-center">
@@ -33,7 +33,6 @@
         {{ $i18n_published_with = $default }}
       {{ end }}
       {{ $i18n_published_with = replace $i18n_published_with "{wowchemy}" "<a href=\"https://wowchemy.com/?utm_campaign=poweredby\" target=\"_blank\" rel=\"noopener\">Wowchemy</a>" | safeHTML }}
-
       {{ $i18n_published_with | markdownify | emojify }}
     {{ end }}
   </p>
