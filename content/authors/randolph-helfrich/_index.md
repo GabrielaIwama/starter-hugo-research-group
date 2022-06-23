@@ -36,7 +36,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigators
-highlight_name: true
+  - Principal Investigator
+highlight_name: false
 ---
 Full bio
