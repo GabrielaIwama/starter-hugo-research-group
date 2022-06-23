@@ -1,7 +1,7 @@
 ---
 title: Frank van Schalkwijk
 role: Postdoc Researcher
-bio: short bio
+bio: 
 interests:
   - Memory Formation
   - Epilepsy
