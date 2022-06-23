@@ -1,0 +1,16 @@
+# Theme metadata
+name = "dark-red"
+
+[light]
+  # Primary
+  primary = "#a51e37"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#a51e37"
+  menu_title = "#a51e37"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
