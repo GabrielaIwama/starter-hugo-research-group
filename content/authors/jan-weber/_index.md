@@ -29,13 +29,13 @@ education:
   courses:
     - course: PhD candidate in Neuroscience
       institution: International Max Planck Research School for the Mechanisms of Mental Function and Dysfunction
-      year: 2020-Present
+      year: 2020 - Present
     - course: M.Sc. in Neural and Behavioral Sciences
       institution: Graduate Training Center of Neuroscience, University of Tübingen
-      year: 2009
+      year: 2018 - 2020
     - course: B.Sc. in Sports Science
       institution: German Sport University Cologne
-      year: 2014-2018
+      year: 2014 - 2018
 email: ""
 superuser: false
 user_groups:
