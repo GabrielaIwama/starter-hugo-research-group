@@ -23,7 +23,7 @@ content:
   contact_links:
       - icon: twitter
         icon_pack: fab
-        name: @HelfrichLab
+        name: '@HelfrichLab'
         link: 'https://twitter.com/HelfrichLab'
 
   # Automatically link email and phone or display as text?
