@@ -18,15 +18,13 @@ content:
   email: helfrich.lab@gmail.com
   address:
     street: Otfried-Müller-Straße 27
-    city:
-    country:
-    country_code:
+    city: Tübingen
 
   contact_links:
       - icon: twitter
         icon_pack: fab
-        name: DM Me
-        link: 'https://twitter.com/Twitter'
+        name: @HelfrichLab
+        link: 'https://twitter.com/HelfrichLab'
 
   # Automatically link email and phone or display as text?
   autolink: true
