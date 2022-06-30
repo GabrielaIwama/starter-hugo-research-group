@@ -32,7 +32,7 @@ content:
         color: '#555'
         brightness: 0.8
         media: group-picture-stocherkahn.jpg
-        fit: contain
+        fit: cover
     - title:
       content:
       align: right
