@@ -2,10 +2,19 @@
 title: Janna Lendner
 role: Postdoc Researcher
 bio:
+### Science Communication:
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/45CTSFIXZyZXTrXZElKE6w?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+- [Versteckte Signale](https://www.spektrum.de/magazin/aperiodische-aktivitaet-versteckte-signale-im-eeg-rauschen/1969873)
+- [Awake or dreaming: how brain ‘noise’ tells the difference](https://thesciencebreaker.org/breaks/health-physiology/awake-or-dreaming-how-brain-noise-tells-the-differe)
+- [Frontiers for Young Minds: What Is Anesthesia?](https://kids.frontiersin.org/articles/10.3389/frym.2021.524571)
+- [UC Berkeley researchers find a unique brain ‘noise’ signature for dream sleep](https://www.dailycal.org/2020/08/09/uc-berkeley-researchers-find-a-unique-brain-noise-signature-for-dream-sleep/)
+- [Brain noise contains unique signature of dream sleep](https://vcresearch.berkeley.edu/news/brain-noise-contains-unique-signature-dream-sleep)
+
+
 interests:
--      Neural dynamics and circuits underlying different states of unconsciousness such as sleep, anesthesia, coma and seizures
--      Sleep and anesthesia’s impact on cognition, e.g. attention and memory
--      Electrophysiology (scalp, intracranial EEG) in humans
+- Neural dynamics and circuits underlying different states of unconsciousness such as sleep, anesthesia, coma and seizures
+- Sleep and anesthesia’s impact on cognition, e.g. attention and memory
+- Electrophysiology (scalp, intracranial EEG) in humans
 social:
   - icon: twitter
     icon_pack: fab
