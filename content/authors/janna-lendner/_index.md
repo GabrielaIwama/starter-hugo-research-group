@@ -51,7 +51,7 @@ highlight_name: false
 {{< spoiler text="Click to view more" >}}
 - [Versteckte Signale](https://www.spektrum.de/magazin/aperiodische-aktivitaet-versteckte-signale-im-eeg-rauschen/1969873)
 - [Awake or dreaming? A how brain ‘noise’ tells the difference](https://thesciencebreaker.org/breaks/health-physiology/awake-or-dreaming-how-brain-noise-tells-the-difference)
-- Frontiers for Young Minds:[What Is Anesthesia?](https://kids.frontiersin.org/articles/10.3389/frym.2021.524571)
+- Frontiers for Young Minds: [What Is Anesthesia?](https://kids.frontiersin.org/articles/10.3389/frym.2021.524571)
 - [UC Berkeley researchers find a unique brain ‘noise’ signature for dream sleep](https://www.dailycal.org/2020/08/09/uc-berkeley-researchers-find-a-unique-brain-noise-signature-for-dream-sleep/)
 - [Brain noise contains unique signature of dream sleep](https://vcresearch.berkeley.edu/news/brain-noise-contains-unique-signature-dream-sleep)
 {{< /spoiler >}}
