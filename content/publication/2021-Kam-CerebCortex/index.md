@@ -1,5 +1,5 @@
 ---
-title: 'Aperiodic sleep networks promote memory consolidation'
+title: 'Top–Down Attentional Modulation in Human Frontal Cortex: Differential Engagement during External and Internal Attention'
 authors:
 - J. Kam,
 - Randolph Helfrich
