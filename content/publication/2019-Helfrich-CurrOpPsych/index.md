@@ -20,8 +20,7 @@ publication_types: ['2']
 publication: '*Current Opinion in Psychology*'
 publication_short: ''
 
-abstract: Which neural mechanisms provide the functional basis of top-down guided cognitive control? Here, we review recent evidence that suggest that the neural basis of attention is
-properties of self-sustained networks, namely entrainment and resonance, and how these shape the timescale of attentional control. Several recent findings revealed theta-band (3–8 Hz) dynamics in top-down guided behavior. These reports were paralleled by intracranial recordings, which implicated theta oscillations in the organization of functional attention networks. We discuss how the intrinsic network architecture shapes covert attentional sampling as well as overt behavior. Taken together, we posit that theta rhythmicity is an inherent feature of the attention network in support of top-down guided goal-directed behavior.
+abstract: Which neural mechanisms provide the functional basis of top-down guided cognitive control? Here, we review recent evidence that suggest that the neural basis of attention is properties of self-sustained networks, namely entrainment and resonance, and how these shape the timescale of attentional control. Several recent findings revealed theta-band (3–8 Hz) dynamics in top-down guided behavior. These reports were paralleled by intracranial recordings, which implicated theta oscillations in the organization of functional attention networks. We discuss how the intrinsic network architecture shapes covert attentional sampling as well as overt behavior. Taken together, we posit that theta rhythmicity is an inherent feature of the attention network in support of top-down guided goal-directed behavior.
 
 tags:
 featured: false
