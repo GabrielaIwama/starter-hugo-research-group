@@ -7,7 +7,6 @@ authors:
   - Manuel Schabus
   - Randolph Helfrich
   - Kerstin Hoedlmoser
-author_notes:
 date: '2021-02-21T00:00:00Z'
 doi: '10.7554/eLife.66761'
 
@@ -44,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption:
+  caption: ''
   focal_point: ''
   preview_only: false
 
