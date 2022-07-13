@@ -10,7 +10,7 @@ authors:
 - R. Knight
 - W. Jagust
 - M. Walker
-date: '2021-06-11T00:00:00Z'
+date: '2019-01-01T00:00:00Z'
 doi: '10.1523/JNEUROSCI.0503-19.2019'
 
 # Schedule page publish date (NOT publication's date).
