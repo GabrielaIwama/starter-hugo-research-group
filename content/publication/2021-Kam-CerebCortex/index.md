@@ -9,7 +9,7 @@ authors:
 - J. Lin
 - R. Knight
 date: '2021-02-01T00:00:00Z'
-doi: '10.1016/j.tics.2021.04.009'
+doi: '10.1093/cercor/bhaa262'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -24,8 +24,7 @@ publication_types: ['2']
 publication: '*Cerebral Cortex*'
 publication_short: ''
 
-abstract: Decades of electrophysiological research on top–down control converge on the role of the lateral frontal cortex in facilitating attention to behaviorally relevant external inputs. However, the involvement of frontal cortex in the top–down control of attention directed to the external versus internal environment remains poorly understood. To address this, we recorded intracranial electrocorticography while subjects directed their attention externally to tones and responded to
-infrequent target tones, or internally to their own thoughts while ignoring the tones. Our analyses focused on frontal and temporal cortices. We first computed the target effect, as indexed by the difference in high frequency activity (70–150 Hz) between target and standard tones. Importantly, we then compared the target effect between external and internal attention, reflecting a top–down attentional effect elicited by task demands, in each region of interest. Both frontal and temporal cortices showed target effects during external and internal attention, suggesting this effect is present irrespective of attention states. However, only the frontal cortex showed an enhanced target effect during external relative to internal attention. These findings provide electrophysiological evidence for top–down attentional modulation in the lateral frontal cortex, revealing preferential engagement with external attention.
+abstract: 'Decades of electrophysiological research on top–down control converge on the role of the lateral frontal cortex in facilitating attention to behaviorally relevant external inputs. However, the involvement of frontal cortex in the top–down control of attention directed to the external versus internal environment remains poorly understood. To address this, we recorded intracranial electrocorticography while subjects directed their attention externally to tones and responded to infrequent target tones, or internally to their own thoughts while ignoring the tones. Our analyses focused on frontal and temporal cortices. We first computed the target effect, as indexed by the difference in high frequency activity (70–150 Hz) between target and standard tones. Importantly, we then compared the target effect between external and internal attention, reflecting a top–down attentional effect elicited by task demands, in each region of interest. Both frontal and temporal cortices showed target effects during external and internal attention, suggesting this effect is present irrespective of attention states. However, only the frontal cortex showed an enhanced target effect during external relative to internal attention. These findings provide electrophysiological evidence for top–down attentional modulation in the lateral frontal cortex, revealing preferential engagement with external attention.'
 
 tags:
 featured: false

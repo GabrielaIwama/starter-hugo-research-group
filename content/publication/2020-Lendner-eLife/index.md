@@ -10,7 +10,7 @@ authors:
 - P. Larsson
 - R. Knight
 date: '2020-07-28T00:00:00Z'
-doi: '10.1016/j.tics.2021.04.009'
+doi: '10.7554/eLife.55092'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
