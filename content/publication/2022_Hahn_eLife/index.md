@@ -1,7 +1,7 @@
 ---
 title: 'Slow oscillation–spindle coupling strength predicts real-life gross-motor learning in adolescents and adults'
 authors:
-  - Michael Hahn
+  - michael-hahn
   - Kathrin Bothe
   - Dominik Heib
   - Manuel Schabus
@@ -26,17 +26,13 @@ publication_short: ''
 
 abstract: Previously, we demonstrated that precise temporal coordination between slow oscillations (SOs) and sleep spindles indexes declarative memory network development (Hahn et al., 2020). However, it is unclear whether these findings in the declarative memory domain also apply in the motor memory domain. Here, we compared adolescents and adults learning juggling, a real-life gross-motor task. Juggling performance was impacted by sleep and time of day effects. Critically, we found that improved task proficiency after sleep lead to an attenuation of the learning curve, suggesting a dynamic juggling learning process. We employed individualized cross-frequency coupling analyses to reduce inter- and intragroup variability of oscillatory features. Advancing our previous findings, we identified a more precise SO–spindle coupling in adults compared to adolescents. Importantly, coupling precision over motor areas predicted overnight changes in task proficiency and learning curve, indicating that SO–spindle coupling relates to the dynamic motor learning process. Our results provide first evidence that regionally specific, precisely coupled sleep oscillations support gross-motor learning.
 
-# Summary. An optional shortened abstract.
-summary:
-
 tags:
-  - Slow oscillation–spindle coupling
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'papers/2022_Hahn_eLife.pdf'
+url_pdf: 'uploads/papers/2022_Hahn_eLife.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
