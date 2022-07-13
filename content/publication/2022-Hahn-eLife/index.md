@@ -1,12 +1,12 @@
 ---
 title: 'Slow oscillation–spindle coupling strength predicts real-life gross-motor learning in adolescents and adults'
 authors:
-  - michael-hahn
-  - Kathrin Bothe
-  - Dominik Heib
-  - Manuel Schabus
+  - Michael Hahn
+  - K. Bothe
+  - D. Heib
+  - M. Schabus
   - Randolph Helfrich
-  - Kerstin Hoedlmoser
+  - K. Hoedlmoser
 date: '2021-02-21T00:00:00Z'
 doi: '10.7554/eLife.66761'
 
