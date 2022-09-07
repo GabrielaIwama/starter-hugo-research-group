@@ -3,9 +3,9 @@ title: Frank van Schalkwijk
 role: Postdoc Researcher
 bio:
 interests:
-  -	Human sleep physiology
-  -	Sleep-dependent memory consolidation
-  -	Epilepsy
+ - Human sleep physiology
+ - Sleep-dependent memory consolidation
+ - Epilepsy
 social:
   - icon: google-scholar
     icon_pack: ai
