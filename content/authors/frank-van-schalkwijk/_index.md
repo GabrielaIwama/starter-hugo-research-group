@@ -1,11 +1,11 @@
 ---
 title: Frank van Schalkwijk
 role: Postdoc Researcher
-bio: 
+bio:
 interests:
-  - Memory Formation
-  - Epilepsy
-  - Spatial Navigation
+  -	Human sleep physiology
+  -	Sleep-dependent memory consolidation
+  -	Epilepsy
 social:
   - icon: google-scholar
     icon_pack: ai
@@ -32,4 +32,6 @@ user_groups:
   - Members
 highlight_name: false
 ---
-I like tea, :tea: lindy hop, :dancers: and saunas. :sauna_man:
+### My research
+
+My studies focus on the neuronal processes involved in the acquisition, consolidation, and recollection of information. Specifically, I am interested in the hippocampal-neocortical dialogue that facilitates memory consolidation during sleep, and aim to determine how this dialogue can be affected by epilepsy. Thus, by studying epilepsy as a network disorder of the human memory system, I will establish the basis of network imbalances that underlie epileptic activity as well as memory impairment in patients with epilepsy.
