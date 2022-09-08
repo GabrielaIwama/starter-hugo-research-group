@@ -10,9 +10,9 @@ role: PhD student
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Attention
+  - Neurophysiology
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,4 +41,4 @@ email: ""
 user_groups:
   - Members
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, I am a PhD student and the key goal of my project is to better understand the behavioral and electrophysiological aspects of attention over time. We now know attention is not stationary but rather it oscillates over time. However, it is still unclear how a lesion in the attention network affects this process and how temporal and spatial features of attention interact. To answer these questions, I use a wide variety of methods such as M/EEG recordings, intracranial EEG, machine learning and behavioral experiments. When I am not working hard on my PhD, you can find me playing videogames :video_game: or hanging out with my friends :beer:
