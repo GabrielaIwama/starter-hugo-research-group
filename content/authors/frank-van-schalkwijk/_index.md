@@ -8,7 +8,7 @@ interests:
  - Epilepsy
 social:
   - icon: envelope
-    icon_pack: fa-regular
+    icon_pack: fas
     link: frank.schalkwijk@uni-tuebingen.de
   - icon: google-scholar
     icon_pack: ai
