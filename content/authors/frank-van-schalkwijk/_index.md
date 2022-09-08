@@ -1,12 +1,15 @@
 ---
 title: Frank van Schalkwijk
 role: Postdoc Researcher
-bio: 
+bio:
 interests:
   - Memory Formation
   - Epilepsy
   - Spatial Navigation
 social:
+  - icon: envelope
+    icon_pack: fab
+    link: frank.schalkwijk@uni-tuebingen.de
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=HNWiAFwAAAAJ
@@ -16,6 +19,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://at.linkedin.com/in/frank-van-schalkwijk-9aa99758
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0001-8291-652X
 education:
   courses:
     - course: PhD in Neuroscience
