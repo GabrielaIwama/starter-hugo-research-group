@@ -19,10 +19,11 @@ content:
       content:
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.8
         media: group-picture-ice-cream.jpg
+        fit: cover
     - title:
       content:
       align: left
@@ -31,6 +32,7 @@ content:
         color: '#555'
         brightness: 0.8
         media: group-picture-stocherkahn.jpg
+        fit: cover
     - title:
       content:
       align: right
@@ -39,4 +41,5 @@ content:
         color: '#333'
         brightness: 0.8
         media: group-picture-christmas.jpg
+        fit: cover
 ---
