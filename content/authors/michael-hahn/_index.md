@@ -1,7 +1,7 @@
 ---
 title: Michael Hahn
-role: position
-bio: short bio
+role: Postdoc Research
+bio:
 interests:
   - Artificial Intelligence
   - Computational Linguistics
