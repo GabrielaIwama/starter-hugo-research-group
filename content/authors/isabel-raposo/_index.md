@@ -3,12 +3,9 @@ organizations:
   - name: Stanford University
     url: ""
 superuser: false
-authors:
-  - 吳恩達
 title: Isabel Raposo
 role: PhD student
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio:
 interests:
   - Attention
   - Neurophysiology

@@ -1,6 +1,6 @@
 ---
 title: Janna Lendner
-role: Postdoc Researcher
+role: Postdoc Researcher, Clinical Scientist
 bio:
 interests:
 - Neural dynamics and circuits underlying different states of unconsciousness such as sleep, anesthesia, coma and seizures

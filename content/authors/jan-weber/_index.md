@@ -1,7 +1,7 @@
 ---
 title: Jan Weber
 role: PhD student
-bio: short bio
+bio: 
 interests:
  - Working Memory
  - Attention

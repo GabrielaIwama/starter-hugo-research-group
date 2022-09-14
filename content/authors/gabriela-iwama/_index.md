@@ -2,7 +2,7 @@
 title: Gabriela Iwama
 role: Master Student
 avatar_filename: avatar.jpg
-bio: Hi, I am Gabriela.
+bio:
 interests:
       - Decision Making
       - Cognitive Modeling

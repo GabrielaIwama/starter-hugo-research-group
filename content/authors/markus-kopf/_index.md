@@ -1,7 +1,7 @@
 ---
 title: Markus Kopf
-role: position
-bio: short bio
+role: Postdoc Researcher, Clinical Scientist
+bio:
 interests:
   - Artificial Intelligence
   - Computational Linguistics
