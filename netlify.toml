@@ -20,7 +20,7 @@
   [plugins.inputs]
     debug = true
 
-[redirects]]
+[[redirects]]
     from = "/*"
     to = "https://helfrich-lab.com"
     status = 301
