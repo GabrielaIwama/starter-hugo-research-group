@@ -32,6 +32,11 @@ education:
     - course: M.D., Medical School
       institution: University of Tuebingen
       year: 2006-2012  
+Funding and Awards:
+- DFG Emmy Noether Program
+- Hertie Network for Excellence in Clinical Neuroscience
+- Ernst Jung Career Development Award 2021
+- Baden Wuerttemberg Foundation Fellowship
 email: ""
 superuser: true
 user_groups:
