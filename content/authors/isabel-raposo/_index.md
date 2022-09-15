@@ -25,15 +25,15 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD candidate in Neuroscience
+      institution: International Max Planck Research School for the Mechanisms of Mental Function and Dysfunction
+      year: 2020 - Present
+    - course: M.Sc. in Neural and Behavioral Sciences
+      institution: Graduate Training Center of Neuroscience, University of Tübingen
+      year: 2018 - 2020
+    - course: B.Sc. in Psychological Sciences
+      institution: Faculty of Psychology, University of Lisbon
+      year: 2013 - 2016
 email: ""
 user_groups:
   - Members
