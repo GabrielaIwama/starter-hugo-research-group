@@ -32,18 +32,19 @@ education:
     - course: M.D., Medical School
       institution: University of Tuebingen
       year: 2006-2012  
-Recent Funding and Awards:
-  courses:
-  - DFG Emmy Noether Program
-  - Hertie Network for Excellence in Clinical Neuroscience
-  - Ernst Jung Career Development Award 2021
-  - Baden Wuerttemberg Foundation Fellowship      
-      
+
+
 email: ""
 superuser: true
 user_groups:
   - Principal Investigator
 highlight_name: false
 ---
+### Recent Funding and Awards:
+  - DFG Emmy Noether Program
+  - Hertie Network for Excellence in Clinical Neuroscience
+  - Ernst Jung Career Development Award 2021
+  - Baden Wuerttemberg Foundation Fellowship   
+
 ### Featured
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qb3cnAYtFhg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
