@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Helfrich Lab # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://helfrich-lab.com/' # Website URL
 
 ############################
 ## LANGUAGE

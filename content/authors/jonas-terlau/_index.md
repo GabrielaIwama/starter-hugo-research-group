@@ -1,6 +1,6 @@
 ---
 title: Jonas Terlau
-role: Postdoc Researcher, Clinical Scientist
+role: Clinician Scientist
 bio:
 interests:
 

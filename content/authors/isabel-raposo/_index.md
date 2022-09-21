@@ -4,7 +4,7 @@ organizations:
     url: ""
 superuser: false
 title: Isabel Raposo
-role: PhD student
+role: PhD Student
 bio:
 interests:
   - Attention

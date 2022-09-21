@@ -16,6 +16,9 @@ main:
   - name: News
     url: post
     weight: 40
+  - name: Join Us
+    url: join
+    weight: 50
   - name: Contact
     url: contact
-    weight: 50
+    weight: 60

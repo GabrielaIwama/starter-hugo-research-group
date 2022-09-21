@@ -14,4 +14,6 @@ reading_time: false
 
 ---
 
-<a class="twitter-timeline" data-lang="en" data-height="720" data-theme="light" href="https://twitter.com/HelfrichLab?ref_src=twsrc%5Etfw">Tweets by HelfrichLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+###### Michael Hahn won this year's dissertation award of the Austrian Society of Psychology!
+
+***

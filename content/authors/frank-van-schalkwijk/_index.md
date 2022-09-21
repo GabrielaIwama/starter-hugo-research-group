@@ -1,6 +1,6 @@
 ---
 title: Frank van Schalkwijk
-role: Postdoc Researcher
+role: Postdoc
 bio:
 interests:
  - Human sleep physiology
@@ -24,15 +24,21 @@ social:
     link: https://orcid.org/0000-0001-8291-652X
 education:
   courses:
-    - course: PhD in Neuroscience
+    - course: Postdoc in Neuroscience
+      institution: University of Tübingen
+      year: 2021 - current
+    - course: Postdoc in Neuroscience
       institution: University of Salzburg
-      year: 2019
-    - course: MSc in Biomedical Science
+      year: 2019 - 2020     
+    - course: Ph.D. in Neuroscience
+      institution: University of Salzburg
+      year: 2015 - 2019
+    - course: M.Sc. in Biomedical Science
       institution: University of Amsterdam
-      year: 2013
-    - course: BSc in Psychobiology
+      year: 2010 - 2013
+    - course: B.Sc. in Psychobiology
       institution: University of Amsterdam
-      year: 2010
+      year: 2007 - 2010
 superuser: false
 user_groups:
   - Members
