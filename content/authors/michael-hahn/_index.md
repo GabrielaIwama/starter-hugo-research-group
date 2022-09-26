@@ -8,7 +8,7 @@ interests:
 social:
   - icon: twitter
     icon_pack: fab
-    link: https:/twitter.com/HahnMic
+    link: https://twitter.com/HahnMic
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=hTli1h0AAAAJ&hl
