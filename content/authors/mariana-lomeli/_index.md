@@ -15,8 +15,7 @@ education:
       institution: Behavioral and Social Science Faculty, University of Groningen, Netherlands
       year: January - April 2018
     - course: B.Sc. in Psychological Sciences
-      institution: Faculty of Psychology, National Autonomous University of Mexico (UNAM), Mexico
-City, Mexico
+      institution: Faculty of Psychology, National Autonomous University of Mexico (UNAM), Mexico City, Mexico
       year: Aug 2015 - Nov 2021
 email: ""
 user_groups:
