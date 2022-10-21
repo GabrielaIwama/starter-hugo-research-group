@@ -21,8 +21,8 @@ We are always happy to discuss individual options to join the lab at all levels.
 
 
 ### Opportunities:
-- **M.D. thesis projects**: We are always open to discussing potential projects for medical students with an interest in neurophysiology. A research semester is not mandatory, but students who would like to focus on science are supported when applying to e.g. the [Promotionskolleg](https://www.medizin.uni-tuebingen.de/de/medizinische-fakultaet/promotionen/promotionskolleg).
-- **M.Sc. thesis or rotation projects**: We have multiple opportunities for M.Sc. projects as well as rotation projects and the barrier is never a lack of projects, but sometimes a lack of time. We typically try to offer two positions per semester.
-- **Research assistant position**: We currently have no formal openings, but students who are interested in our research should contact Randolph to discuss options. RA positions are compensated by HiWi contracts.
-- **Prospective Ph.D**. students: We will be able to offer fully-funded PhD positions (65%) in 2023 and 2024, so if you would like to inquire about opportunities, please reach out and discuss options with Randolph.
+- **M.D. Thesis Projects**: We are always open to discussing potential projects for medical students with an interest in neurophysiology. A research semester is not mandatory, but students who would like to focus on science are supported when applying to e.g. the [Promotionskolleg](https://www.medizin.uni-tuebingen.de/de/medizinische-fakultaet/promotionen/promotionskolleg).
+- **M.Sc. Thesis or Rotation Projects**: We have multiple opportunities for M.Sc. projects as well as rotation projects and the barrier is never a lack of projects, but sometimes a lack of time. We typically try to offer two positions per semester.
+- **Research Assistant Position**: We currently have no formal openings, but students who are interested in our research should contact Randolph to discuss options. RA positions are compensated by HiWi contracts.
+- **Prospective Ph.D. Students**: We will be able to offer fully-funded PhD positions (65%) in 2023 and 2024, so if you would like to inquire about opportunities, please reach out and discuss options with Randolph.
 - **Postdocs and Clinician-Scientists**: Individual career trajectories are different and we are happy to work with you to tailor your postgraduate training according to your goals and needs, so please feel free to reach out to discuss options in person.
