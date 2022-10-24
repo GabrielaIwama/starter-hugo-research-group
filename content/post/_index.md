@@ -32,7 +32,7 @@ reading_time: false
 <div style="text-align: center;" markdown="1">
 
 #### 09/2022 </div>
-- New preprint by postdocs **Michael Hahn** and **Janna Lendner** with Kerstin Hoedlmosers lab: Link to (https://www.biorxiv.org/content/10.1101/2022.09.10.507390v2).
+- New [preprint](https://www.biorxiv.org/content/10.1101/2022.09.10.507390v2) by postdocs **Michael Hahn** and **Janna Lendner** with Kerstin Hoedlmosers lab.
 - **Jonas Terlau** joins the lab as a postdoc and clinician-scientist in neurology after having finished his medical studies in Muenster.
 - Welcome **Kirsti Brandes** and **Martin Cotrina** who join the group for a GTC M.Sc. rotation project.
 - **Michael Hahn** wins the Dissertation prize of the Austrian Society for Psychology (ÖGP).
@@ -58,7 +58,7 @@ reading_time: false
 <div style="text-align: center;" markdown="1">
 
 #### 05/2022 </div>
-- Book chapter accepted for the upcoming Oxford Handbook on Memory edited by Mike Kahana and Anthony Wagner with Bob Knight and Mark D’Esposito: *Link to PDF
+- Book chapter accepted for the upcoming Oxford Handbook on Memory edited by Mike Kahana and Anthony Wagner with Bob Knight and Mark D’Esposito:
 - New preprint by **Janna Lendner**: [Changes of oscillatory and aperiodic neuronal activity in working memory following anaesthesia: a prospective observational study](https://www.biorxiv.org/content/10.1101/2022.05.13.491765v1.full)
 
 ***
