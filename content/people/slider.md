@@ -22,6 +22,15 @@ content:
         position: center
         color: '#666'
         brightness: 0.8
+        media: group-picture-retreat.jpg
+        fit: cover
+    - title:
+      content:
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.8
         media: group-picture-ice-cream.jpg
         fit: cover
     - title:
