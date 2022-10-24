@@ -15,11 +15,11 @@ reading_time: false
 ---
 
 ***
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style="text-align: center;" markdown="1">
 
 #### 10/2022  </div>
 
-- New preprint by **Frank van Schalkwijk**: [An Evolutionary Conserved Division-of-Labor between Hippocampal and Neocortical Sharp-Wave Ripples Organizes Information Transfer During Sleep]().
+- New preprint by **Frank van Schalkwijk**: [An Evolutionary Conserved Division-of-Labor between Hippocampal and Neocortical Sharp-Wave Ripples Organizes Information Transfer During Sleep](https://biorxiv.org/cgi/content/short/2022.10.19.512822v1).
 - First lab retreat at the Black Forest. See the all the pictures [here](https://drive.google.com/drive/folders/1Y5N78g2OgEJPp6qMwg03mQUJPKTCtenl?usp=sharing).
 - [PhD position available](https://twitter.com/HelfrichLab/status/1580479022529622016) with Zeynep Akata and Steffi Liebe as part of the Else-Kroener-Fresenius funded ClinBrAIn Initiative.
 - New book chapter accepted for The SAGE Handbook of Cognitive and Systems Neuroscience with Bob Knight on [neural recordings and time series analyses](https://helfrich-lab.com/uploads/papers/2022_Helfrich_Timeseries_Sage_inpress.pdf).
@@ -29,7 +29,7 @@ reading_time: false
 - New book chapter published by **Randolph**: [Human Cognitive Intracranial Neurophysiology](https://helfrich-lab.com/uploads/papers/2022_Helfrich_Methods_Protocols.pdf).
 
 ***
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style="text-align: center;" markdown="1">
 
 #### 09/2022 </div>
 - New preprint by postdocs **Michael Hahn** and **Janna Lendner** with Kerstin Hoedlmosers lab: Link to (https://www.biorxiv.org/content/10.1101/2022.09.10.507390v2).
@@ -41,21 +41,21 @@ reading_time: false
 
 ***
 
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style="text-align: center;" markdown="1">
 
 #### 08/2022 </div>
 - New book chapter from **Janna** and **Randolph** accepted for Nikolai Axmachers forthcoming book on [iEEG and cognitive neuroscience](https://psyarxiv.com/s65q4/).
 
 ***
 
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style="text-align: center;" markdown="1">
 
 #### 06/2022 </div>
 - DGPA Poster Award for **Gabriela** and **Jan** for their work on ["Conjunctive Coding of the Past and Present Impairs Human Behavior"](https://helfrich-lab.com/uploads/posters/poster-pug2022-past-coding.jpg).
 
 ***
 
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style="text-align: center;" markdown="1">
 
 #### 05/2022 </div>
 - Book chapter accepted for the upcoming Oxford Handbook on Memory edited by Mike Kahana and Anthony Wagner with Bob Knight and Mark D’Esposito: *Link to PDF
@@ -63,14 +63,14 @@ reading_time: false
 
 ***
 
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style="text-align: center;" markdown="1">
 
 #### 02/2022 </div>
 - New paper by **Michael Hahn** in eLife: [Slow oscillation–spindle coupling strength predicts real-life gross-motor learning in adolescents and adults](https://elifesciences.org/articles/66761)
 
 ***
 
-<div style="font-style: italic; text-align: center;" markdown="1">
+<div style="text-align: center;" markdown="1">
 
 #### 12/2021 </div>
 - New preprint by **Jan Weber**: [Population coding and oscillatory subspace synchronization integrate context into actions](https://www.biorxiv.org/content/10.1101/2021.12.17.473118v1).
