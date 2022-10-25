@@ -7,7 +7,8 @@ widget: contact
 weight: 30
 
 title: Contact
-subtitle: 'Our lab is located at the Hertie Institute for Clinical Brain Research' + 'and the Center for Neurology of the University Medical Center Tübingen'
+subtitle: Our lab is located at the Hertie Institute for Clinical Brain Research
+subtitle: and the Center for Neurology of the University Medical Center Tübingen
 
 content:
   # Contact (edit or remove options as required)
