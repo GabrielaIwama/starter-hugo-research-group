@@ -20,7 +20,7 @@ reading_time: false
 #### 10/2022  </div>
 
 - New preprint by **Frank van Schalkwijk**: [An Evolutionary Conserved Division-of-Labor between Hippocampal and Neocortical Sharp-Wave Ripples Organizes Information Transfer During Sleep](https://biorxiv.org/cgi/content/short/2022.10.19.512822v1).
-- First lab retreat at the Black Forest. See the all the pictures [here](https://drive.google.com/drive/folders/1Y5N78g2OgEJPp6qMwg03mQUJPKTCtenl?usp=sharing).
+- First lab retreat at the Black Forest.
 - [PhD position available](https://twitter.com/HelfrichLab/status/1580479022529622016) with Zeynep Akata and Steffi Liebe as part of the Else-Kroener-Fresenius funded ClinBrAIn Initiative.
 - New book chapter accepted for The SAGE Handbook of Cognitive and Systems Neuroscience with Bob Knight on [Neural Recordings and Time Series Analyses](https://helfrich-lab.com/uploads/papers/2022_Helfrich_Timeseries_Sage_inpress.pdf).
 - Welcome **Gabriela Iwama** as a new PhD student.
