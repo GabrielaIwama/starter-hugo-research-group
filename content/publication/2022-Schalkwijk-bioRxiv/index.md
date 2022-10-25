@@ -5,8 +5,8 @@ authors:
   - Jan Weber
   - Michael Hahn
   - Janna Lendner
-  - M. Inostroza,  
-  - J. Lin,  
+  - M. Inostroza
+  - J. Lin
   - Randolph Helfrich
 date: '2022-10-21T00:00:00Z'
 doi: '10.1101/2022.10.19.512822'
