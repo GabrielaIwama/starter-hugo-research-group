@@ -22,7 +22,7 @@ reading_time: false
 - New preprint by **Frank van Schalkwijk**: [An Evolutionary Conserved Division-of-Labor between Hippocampal and Neocortical Sharp-Wave Ripples Organizes Information Transfer During Sleep](https://biorxiv.org/cgi/content/short/2022.10.19.512822v1).
 - First lab retreat at the Black Forest.
 - [PhD position available](https://twitter.com/HelfrichLab/status/1580479022529622016) with Zeynep Akata and Steffi Liebe as part of the Else-Kroener-Fresenius funded ClinBrAIn Initiative.
-- New book chapter accepted for The SAGE Handbook of Cognitive and Systems Neuroscience with Bob Knight on [neural recordings and time series analyses](https://helfrich-lab.com/uploads/papers/2022_Helfrich_Timeseries_Sage_inpress.pdf).
+- New book chapter accepted for The SAGE Handbook of Cognitive and Systems Neuroscience with Bob Knight on [Neural Recordings and Time Series Analyses](https://helfrich-lab.com/uploads/papers/2022_Helfrich_Timeseries_Sage_inpress.pdf).
 - Welcome **Gabriela Iwama** as a new PhD student.
 - Welcome **Mariana Lomelí** who joins as a new PhD student in collaboration with Nick Myers at the University of Nottingham. Newly funded joint project by the University of Nottingham and the University of Tübingen’s funding as part of the Excellence Strategy of the German Federal and State Governments, in close collaboration with the University of Nottingham as well as the BBSRC International Partnership Fund.
 - **Michael Hahn** wins the Early career award of the German Society of Sleep Medicine and Research (DGSM).
@@ -32,12 +32,12 @@ reading_time: false
 <div style="text-align: center;" markdown="1">
 
 #### 09/2022 </div>
-- New [preprint](https://www.biorxiv.org/content/10.1101/2022.09.10.507390v2) by postdocs **Michael Hahn** and **Janna Lendner** with Kerstin Hoedlmosers lab.
+- New preprint by postdocs **Michael Hahn** and **Janna Lendner** with Kerstin Hoedlmosers lab: [Spectral slope and neural complexity as robust markers of task demand and brain state during sleep and wakefulness](https://www.biorxiv.org/content/10.1101/2022.09.10.507390v2).
 - **Jonas Terlau** joins the lab as a postdoc and clinician-scientist in neurology after having finished his medical studies in Muenster.
 - Welcome **Kirsti Brandes** and **Martin Cotrina** who join the group for a GTC M.Sc. rotation project.
 - **Michael Hahn** wins the Dissertation prize of the Austrian Society for Psychology (ÖGP).
 - **Gabriela Iwama** finished her Master thesis and was awarded IMPRS bridging funds to join our group later this year as a PhD student.
-- Book chapter accepted for the forthcoming book in Honor of Helen Neville:
+- Book chapter accepted for the forthcoming book in Honor of Helen Neville: [Making memories last: How sleep promotes neuroplasticity](https://helfrich-lab.com/uploads/papers/2021_Helfrich_NevilleChapter.pdf).
 
 ***
 
@@ -58,7 +58,7 @@ reading_time: false
 <div style="text-align: center;" markdown="1">
 
 #### 05/2022 </div>
-- Book chapter accepted for the upcoming Oxford Handbook on Memory edited by Mike Kahana and Anthony Wagner with Bob Knight and Mark D’Esposito:
+- Book chapter ["Methods to Study Human Memory"](https://helfrich-lab.com/uploads/papers/2022_Helfrich_MemoryApproaches_Oxford.pdf) accepted for the upcoming Oxford Handbook on Memory edited by Mike Kahana and Anthony Wagner with Bob Knight and Mark D’Esposito.
 - New preprint by **Janna Lendner**: [Changes of oscillatory and aperiodic neuronal activity in working memory following anaesthesia: a prospective observational study](https://www.biorxiv.org/content/10.1101/2022.05.13.491765v1.full)
 
 ***
