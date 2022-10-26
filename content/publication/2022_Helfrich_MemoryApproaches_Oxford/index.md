@@ -28,7 +28,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/papers/2022_Helfrich_Methods_Protocols.pdf'
+url_pdf: 'uploads/papers/2022_Helfrich_MemoryApproaches_Oxford.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

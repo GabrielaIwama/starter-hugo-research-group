@@ -1,5 +1,5 @@
 ---
-title: 'Slow oscillation–spindle coupling strength predicts real-life gross-motor learning in adolescents and adults'
+title: 'An evolutionary conserved division-of-labor between hippocampal and neocortical sharp-wave ripples organizes information transfer during sleep'
 authors:
   - Frank van Schalkwijk
   - Jan Weber
