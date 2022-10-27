@@ -22,7 +22,34 @@ content:
         position: center
         color: '#666'
         brightness: 0.8
-        media: group-picture-retreat.jpg
+        media: group-picture-retreat-1.jpg
+        fit: cover
+    - title:
+      content:
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.8
+        media: group-picture-retreat-2.jpg
+        fit: cover
+    - title:
+      content:
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.8
+        media: group-picture-retreat-3.jpg
+        fit: cover
+    - title:
+      content:
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.8
+        media: group-picture-retreat-4.jpg
         fit: cover
     - title:
       content:
