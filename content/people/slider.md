@@ -39,7 +39,7 @@ content:
       background:
         position: center
         color: '#666'
-        brightness: 0.8
+        brightness: 0.9
         media: group-picture-retreat-3.jpg
         fit: cover
     - title:
@@ -48,7 +48,7 @@ content:
       background:
         position: center
         color: '#666'
-        brightness: 0.8
+        brightness: 0.95
         media: group-picture-retreat-4.jpg
         fit: cover
     - title:
