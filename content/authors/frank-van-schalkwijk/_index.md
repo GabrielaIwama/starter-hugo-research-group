@@ -47,3 +47,6 @@ highlight_name: false
 ### My research
 
 My studies focus on the neuronal processes involved in the acquisition, consolidation, and recollection of information. Specifically, I am interested in the hippocampal-neocortical dialogue that facilitates memory consolidation during sleep, and aim to determine how this dialogue can be affected by epilepsy. Thus, by studying epilepsy as a network disorder of the human memory system, I will establish the basis of network imbalances that underlie epileptic activity as well as memory impairment in patients with epilepsy.
+
+### Recent Funding and Awards:
+  - DFG Walter Benjamin Fellowship
