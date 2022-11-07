@@ -17,6 +17,13 @@ reading_time: false
 ***
 <div style="text-align: center;" markdown="1">
 
+#### 11/2022 </div>
+
+- **Frank van Schalkwijk** was awarded with the [Walter Benjamin Fellowship](https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/index.html) by the Deutsche Forschungsgemeinschaft (DFG) for the project titled "The pathophysiology of sleep-dependent memory consolidation". 
+
+***
+<div style="text-align: center;" markdown="1">
+
 #### 10/2022  </div>
 
 - New preprint by **Frank van Schalkwijk**: [An Evolutionary Conserved Division-of-Labor between Hippocampal and Neocortical Sharp-Wave Ripples Organizes Information Transfer During Sleep](https://biorxiv.org/cgi/content/short/2022.10.19.512822v1).
