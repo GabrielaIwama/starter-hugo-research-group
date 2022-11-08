@@ -19,7 +19,7 @@ reading_time: false
 
 #### 11/2022 </div>
 
-- New preprint by **Isabel Raposo**: [Periodic neglect after frontoparietal lesions provides causal evidence for rhythmic attention sampling](https://www.biorxiv.org/content/10.1101/2022.11.07.515418v1)
+- New preprint by **Isabel Raposo**: [Periodic neglect after frontoparietal lesions provides causal evidence for rhythmic attention sampling](https://www.biorxiv.org/content/10.1101/2022.11.07.515418v1).
 - **Frank van Schalkwijk** was awarded with the [Walter Benjamin Fellowship](https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/index.html) by the Deutsche Forschungsgemeinschaft (DFG) for the project titled "The pathophysiology of sleep-dependent memory consolidation".
 
 ***

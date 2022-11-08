@@ -1,5 +1,5 @@
 ---
-title: 'Cognitive neurophysiology of the prefrontal cortex'
+title: 'Cognitive neurophysiology: Event-related potentials'
 authors:
   - Randolph Helfrich
   - R. Knight
