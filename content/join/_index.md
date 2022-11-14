@@ -13,9 +13,6 @@ banner:
 reading_time: false
 
 ---
-### Open Positions
-We currently have an [open PhD position](https://www.hih-tuebingen.de/fileadmin/web/img/content/Karriere/Ausschreibungen/Jobcall_2022_PFC_Helfrich.pdf) on prefrontal cognitive control using intracranial EEG.
-
 ### Join as a Researcher
 We are always happy to discuss individual options to join the lab at all levels. Open positions will be advertised on the official website of the [Hertie Institute](www.hih-tuebingen.de/en/helfrichlab), but if you are interested in joining, please do not hesitate to contact Randolph. Research opportunities for B.Sc./M.Sc./M.D. students can always be tailored according to individual interests. Most likely, we will be able to recruit PhD students in 2023/2024 and offer fully-funded positions, but if you are interested in applying for a fellowship (e.g. [Landesgraduiertenförderung](https://uni-tuebingen.de/forschung/service/forschungsfoerderung/foerderprogramme-baden-wuerttemberg/landesgraduiertenfoerderung/) oder [Studienstiftung](https://www.studienstiftung.de/)), we’d be happy to discuss options. At the postdoc level, we are happy to support individual fellowship applications for prospective candidates (e.g. through the [Humboldt Foundation](https://www.humboldt-foundation.de/), [DFG](https://www.dfg.de/) or [DAAD](https://www.daad.de/)). For clinician-scientists with an interest in neurology/neuroscience, please contact Randolph to discuss options, Tuebingen offers a range of intramural funding opportunities.
 
