@@ -18,7 +18,7 @@ reading_time: false
 <div style="text-align: center;" markdown="1">
 
 #### 11/2022 </div>
-- New preprint by **Jan Weber**: [Subspace partitioning in human prefrontal cortex resolves cognitive interference](https://www.biorxiv.org/content/10.1101/2022.11.16.516719v1.abstract)
+- New preprint by **Jan Weber** and **Gabriela Iwama**: [Subspace partitioning in human prefrontal cortex resolves cognitive interference](https://www.biorxiv.org/content/10.1101/2022.11.16.516719v1.abstract).
 - **Jonas Terlau** received an award for his thesis in medicine by the [Westfälische Wilhelms-Universität Münster](https://www.uni-muenster.de/de/).
 - **Michael Hahn** was awarded the [Young Scientist Award 2022](https://www.dgsm.de/gesellschaft/die-dgsm/wissenschaftliche-preise/nachwuchsfoerderpreis-schlafforschung) by the [Deutsche Gesellschaft für Schlafforschung und Schlafmedizin e.V. (DGSM).
 - New preprint by **Isabel Raposo**: [Periodic neglect after frontoparietal lesions provides causal evidence for rhythmic attention sampling](https://www.biorxiv.org/content/10.1101/2022.11.07.515418v1).
