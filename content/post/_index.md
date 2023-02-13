@@ -17,7 +17,8 @@ reading_time: false
 <div style="text-align: center;" markdown="1">
 
 #### 02/2023 </div>
-- **Randolph, Janna, Frank** and **Michael** presented their research in the 20th Anniversary of the “Laboratory for Sleep, Cognition & Consciousness Research” in Salzburg, Austria. **Michael Hahn** won the award for best blitz presentation!
+- **Michael Hahn** won the best Blitzpresentation Award during the Wintersymposium for Sleep, Cognition and Consciousness at Werfenweng, Austria for his talk "Neural information coding differences in human and rodent sleep"!
+- **Randolph, Janna, Frank** and **Michael** presented their research in the 20th Anniversary of the “Laboratory for Sleep, Cognition & Consciousness Research” in Salzburg, Austria.
 - After a successful rotation project, **Matthias Anwander** will stay in our lab for his master thesis!
 
 
