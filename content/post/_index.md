@@ -13,6 +13,13 @@ banner:
 reading_time: false
 
 ---
+***
+<div style="text-align: center;" markdown="1">
+
+#### 02/2023 </div>
+- **Randolph, Janna, Frank** and **Michael** presented their research in the 20th Anniversary of the “Laboratory for Sleep, Cognition & Consciousness Research” in Salzburg, Austria. **Michael Hahn** won the award for best blitz presentation!
+- After a successful rotation project, **Matthias Anwander** will stay in our lab for his master thesis!
+
 
 ***
 <div style="text-align: center;" markdown="1">
@@ -23,6 +30,7 @@ reading_time: false
 - **Michael Hahn** was awarded the [Young Scientist Award 2022](https://www.dgsm.de/gesellschaft/die-dgsm/wissenschaftliche-preise/nachwuchsfoerderpreis-schlafforschung) by the Deutsche Gesellschaft für Schlafforschung und Schlafmedizin e.V. (DGSM).
 - New preprint by **Isabel Raposo**: [Periodic neglect after frontoparietal lesions provides causal evidence for rhythmic attention sampling](https://www.biorxiv.org/content/10.1101/2022.11.07.515418v1).
 - **Frank van Schalkwijk** was awarded with the [Walter Benjamin Fellowship](https://www.dfg.de/en/research_funding/programmes/individual/walter_benjamin/index.html) by the Deutsche Forschungsgemeinschaft (DFG) for the project titled "The pathophysiology of sleep-dependent memory consolidation".
+- Welcome to our new lab rotation student **Matthias Anwander**!
 
 ***
 <div style="text-align: center;" markdown="1">
