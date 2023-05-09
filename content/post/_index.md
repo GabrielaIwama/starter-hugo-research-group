@@ -13,6 +13,17 @@ banner:
 reading_time: false
 
 ---
+
+
+***
+<div style="text-align: center;" markdown="1">
+
+#### 04/2023 </div>
+- Our lab made quite an impression at the 2023 International Conference on Learning and Memory ([LEARNMEM](https://learnmem2023.org/)) in California, LA with presentations from **Janna Lendner**, **Michael Hahn**, **Frank van Schalkwijk**, and **Randolph Helfrich**! 
+- **Michael Hahn** was awarded with a PRIME fellowship by the German Academic Exchange Service ([DAAD](https://www.daad.de/en/study-and-research-in-germany/scholarships/postdoctoral-researchers-international-mobility-experience/)) to investigate oscillatory and fractal dynamics in service of human working memory in collaboration with **Dr. Nicholas Myers** at University of Nottingham. 
+- Welcome to our new lab members **Neha Binish** and **Laura Heidiri**! Neha joined us as new PhD student to investigate principles of cortical communication. Laura will study the neurophysiology of epileptic episodes in her master thesis.
+
+
 ***
 <div style="text-align: center;" markdown="1">
 
