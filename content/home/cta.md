@@ -7,6 +7,7 @@ weight: 20
 design:
   columns: '1'
 ---
+<center>{{< figure src="pug2023.png" class="center" >}}</center>
 
 The goal of the Helfrich Lab is to unravel the neural network mechanisms supporting higher cognitive functions and their disturbances underlying neuropsychiatric disorders. We study the functional architecture of human cognition with a spatiotemporal resolution spanning single units to large-scale network activity.
 
