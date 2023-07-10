@@ -1,6 +1,5 @@
 ---
 header:
-  caption: ""
   image: "pug2023.jpg"
 weight: 15
 title:
