@@ -15,6 +15,15 @@ design:
 
 content:
   slides:
+  - title:
+    content:
+    align: center
+    background:
+      position: center
+      color: '#666'
+      brightness: 0.8
+      media: pug2023_2.jpg
+      fit: cover
     - title:
       content:
       align: center
