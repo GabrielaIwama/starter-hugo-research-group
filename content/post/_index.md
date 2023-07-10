@@ -17,9 +17,9 @@ reading_time: false
 <div style="text-align: center;" markdown="1">
 
 #### 06/2023 </div>
-- Paper accepted by PNAS: [Subspace partitioning in human prefrontal cortex resolves cognitive interference.](https://www.biorxiv.org/content/10.1101/2022.11.16.516719v1)
+- Paper accepted by PNAS: [Subspace partitioning in human prefrontal cortex resolves cognitive interference.](https://www.pnas.org/doi/10.1073/pnas.2220523120)
 - Paper accepted by Progress in Neurobiology: [An evolutionary conserved division-of-labor between archicortical and neocortical ripples organizes information transfer during sleep.](https://authors.elsevier.com/a/1hL5b14SFmDDaU)
-- Helfrich lab presented their research in the 48th edition of "Psychologie und Gehirn" ([PuG2023](https://pug2023.de/home/)) conference in Tübingen, Germany.
+- Our lab presented our research in the 48th edition of "Psychologie und Gehirn" ([PuG2023](https://pug2023.de/home/)) conference in Tübingen, Germany.
 
 
 ***
