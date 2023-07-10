@@ -4,8 +4,8 @@ role: Master Student
 avatar_filename: avatar.jpg
 bio:
 interests:
-  -	Clinical Neuroscience
-  -	Neurophysiology
+      -	Clinical Neuroscience
+      -	Neurophysiology
 social:
 education:
   courses:
