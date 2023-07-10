@@ -8,3 +8,4 @@ design:
   css_style: null
   css_class: null
 ---
+<center>{{< figure src="pug2023.jpg" class="center" >}}</center>
