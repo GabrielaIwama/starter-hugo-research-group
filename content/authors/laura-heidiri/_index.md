@@ -1,7 +1,6 @@
 ---
 title: Laura Heidiri
 role: Master Student
-avatar_filename: avatar.jpg
 bio:
 interests:
       -	Clinical Neuroscience
