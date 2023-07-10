@@ -3,8 +3,6 @@ title: Laura Heidiri
 role: Master Student
 bio:
 interests:
-      -	Clinical Neuroscience
-      -	Neurophysiology
 social:
 education:
   courses:
