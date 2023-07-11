@@ -19,7 +19,9 @@ reading_time: false
 #### 06/2023 </div>
 - Paper accepted by PNAS: [Subspace partitioning in human prefrontal cortex resolves cognitive interference.](https://www.pnas.org/doi/10.1073/pnas.2220523120)
 - Paper accepted by Progress in Neurobiology: [An evolutionary conserved division-of-labor between archicortical and neocortical ripples organizes information transfer during sleep.](https://authors.elsevier.com/a/1hL5b14SFmDDaU)
-- Our lab presented our research in the 48th edition of "Psychologie und Gehirn" ([PuG2023](https://pug2023.de/home/)) conference in Tübingen, Germany.
+- Our lab presented our research in the 48th edition of "Psychologie und Gehirn" ([PuG2023](https://pug2023.de/home/)) conference in Tübingen, Germany. **Jan Weber** and **Marit Petzka** organized a symposium about alpha oscillations and sleep spindles!
+<center>{{< figure src="spindles_symposium.jpg" class="center" >}}</center>
+
 
 
 ***
