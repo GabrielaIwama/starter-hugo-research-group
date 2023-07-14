@@ -16,6 +16,13 @@ reading_time: false
 ***
 <div style="text-align: center;" markdown="1">
 
+#### 07/2023 </div>
+- We have a new [PhD position](https://helfrich-lab.com/uploads/positions/Helfrich_PhD_call_2023.pdf) available!
+
+
+***
+<div style="text-align: center;" markdown="1">
+
 #### 06/2023 </div>
 - Paper accepted by PNAS: [Subspace partitioning in human prefrontal cortex resolves cognitive interference.](https://www.pnas.org/doi/10.1073/pnas.2220523120)
 - Paper accepted by Progress in Neurobiology: [An evolutionary conserved division-of-labor between archicortical and neocortical ripples organizes information transfer during sleep.](https://authors.elsevier.com/a/1hL5b14SFmDDaU)
