@@ -8,8 +8,8 @@ authors:
   - M. Inostroza
   - J. Lin
   - Randolph Helfrich
-date: '2022-10-21T00:00:00Z'
-doi: '10.1101/2022.10.19.512822'
+date: '2023-06-21T00:00:00Z'
+doi: '10.1016/j.pneurobio.2023.102485'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-01-01T00:00:00Z'
@@ -18,13 +18,13 @@ publishDate: '2022-01-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*bioRxiv*'
+publication: '*Progress in Neurobiology*'
 publication_short: ''
 
-abstract: The hippocampal sharp-wave ripple (SW-R) is the key substrate of the hippocampal-neocortical dialogue underlying memory formation. Recently, it became evident that SW-R are not unique to archicortex, but constitute a wide-spread neocortical phenomenon. To date, little is known about morphological and functional similarities between archi- and neocortical SW-R. Leveraging intracranial recordings from the human hippocampus and prefrontal cortex during sleep, our results reveal region-specific functional specializations, albeit a near-uniform morphology. While hippocampal SW-R trigger directional hippocampal-to-neocortical information flow, neocortical SW-R reduce information flow to minimize interference. At the population level, hippocampal SW-R confined population dynamics to a low-dimensional subspace, while neocortical SW-R diversified the population response; functionally uncoupling the hippocampal-neocortical network. Critically, our replication in rodents demonstrated the same division-of-labor between archi-and neocortical SW-R. These results uncover an evolutionary preserved mechanism where coordinated interplay between hippocampal and neocortical SW-R temporally segregates hippocampal information transfer from neocortical processing.
+abstract: Systems-level memory consolidation during sleep depends on the temporally precise interplay between cardinal sleep oscillations. Specifically, hippocampal ripples constitute a key substrate of the hippocampal-neocortical dialog underlying memory formation. Recently, it became evident that ripples are not unique to archicortex, but constitute a wide-spread neocortical phenomenon. To date, little is known about the morphological similarities between archi- and neocortical ripples. Moreover, it remains undetermined if neocortical ripples fulfill distinct functional roles. Leveraging intracranial recordings from the human medial temporal lobe (MTL) and neocortex during sleep, our results reveal region-specific functional specializations, albeit a near-uniform morphology. While MTL ripples synchronize the memory network to trigger directional MTL-to-neocortical information flow, neocortical ripples reduce information flow to minimize interference. At the population level, MTL ripples confined population dynamics to a low-dimensional subspace, while neocortical ripples diversified the population response; thus, constituting an effective mechanism to functionally uncouple the MTL-neocortical network. Critically, we replicated the key findings in rodents, where the same division-of-labor between archi- and neocortical ripples was evident. In sum, these results uncover an evolutionary preserved mechanism where the precisely coordinated interplay between MTL and neocortical ripples temporally segregates MTL information transfer from subsequent neocortical processing during sleep.
 
 tags:
 featured: false
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/papers/2022-Schalkwijk-bioRxiv.pdf'
+url_pdf: 'uploads/papers/2023_vanSchalkwijk_Progress_Neurobiology.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
