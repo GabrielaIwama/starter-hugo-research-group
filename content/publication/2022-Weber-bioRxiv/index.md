@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/papers/2022_Weber_PNAS.pdf'
+url_pdf: 'uploads/papers/2023_Weber_PNAS.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
