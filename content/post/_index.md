@@ -18,8 +18,8 @@ reading_time: false
 
 #### 12/2023 </div>
 
-- Paper accepted just before the holidays: Jan’s paper on [subspace synchronization](https://www.biorxiv.org/content/10.1101/2021.12.17.473118v1) is now in press in Nature Communications under a new title: [Ramping dynamic and theta oscillations reflect dissociable signatures during rule-guided human behavior].
-- Joint lab meeting with the Oganian and Breska labs
+- Paper accepted just before the holidays: **Jan**’s paper on [subspace synchronization](https://www.biorxiv.org/content/10.1101/2021.12.17.473118v1) is now in press in Nature Communications under a new title: [Ramping dynamic and theta oscillations reflect dissociable signatures during rule-guided human behavior]().
+- Joint lab meeting with the Oganian and Breska labs:
 <center>{{< figure src="2023_3lab_christmas.jpg" class="center" >}}</center>
 
 
@@ -29,7 +29,7 @@ reading_time: false
 
 #### 11/2023 </div>
 
-- Laura Heidiri will stay onboard for her PhD after the Master’s at the GTC. Welcome again, Laura!
+- **Laura Heidiri** will stay onboard for her PhD after the Master’s at the GTC. Welcome again, Laura!
 - Jan, Neha, Gabriela, and Jonas attended [BrainModes](https://www.eusnn.eu/brainmodes23) in Hamburg.
 - New paper about [sleep-spindles across development](https://elifesciences.org/articles/83565) by our postdoc Michi Hahn in collaboration with Anka Joechner and team now published in Elife.
 
@@ -39,19 +39,19 @@ reading_time: false
 
 #### 10/2023 </div>
 
-- Mariana, Gabriela, and Isabel presented at the [The Brain Conference: Structuring Knowledge for Flexible Behaviour](https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour)!
-- New paper published in Current Biology by Isabel on the [causal nature of rhythmic attention sampling](https://pubmed.ncbi.nlm.nih.gov/37852264/)! Check the [preprint](https://www.biorxiv.org/content/10.1101/2022.11.07.515418v1).
-- Victoria Mair joins for the lab for her M.D. thesis – welcome!
+- **Mariana**, **Gabriela**, and **Isabel** presented at the [The Brain Conference: Structuring Knowledge for Flexible Behaviour](https://www.fens.org/news-activities/fens-and-societies-calendar/meeting-event/the-brain-conference-structuring-knowledge-for-flexible-behaviour)!
+- New paper published in Current Biology by **Isabel** on the [causal nature of rhythmic attention sampling](https://pubmed.ncbi.nlm.nih.gov/37852264/)! Check the [preprint](https://www.biorxiv.org/content/10.1101/2022.11.07.515418v1).
+- **Victoria Mair** joins for the lab for her M.D. thesis – welcome!
 
 
 ***
 <div style="text-align: center;" markdown="1">
 
 #### 09/2023 </div>
-- Lab Turns Three! Celebrating three years of growth, collaboration, and discovery.
+- **Lab Turns Three!** Celebrating three years of growth, collaboration, and discovery.
+- **Jan Martini** Presents at Tuebingen Systems Neuroscience Symposium! Jan's impactful presentation highlights our commitment to advancing neuroscience at the symposium.
 - The team enjoyed an inspiring retreat, fostering ideas and strengthening bonds in the beautiful Black Forest.
 <center>{{< figure src="group-picture-2023-lab-reatreat.jpg" class="center" >}}</center>
-- Jan Martini Presents at Tuebingen Systems Neuroscience Symposium! Jan's impactful presentation highlights our commitment to advancing neuroscience at the symposium.
 
 
 
@@ -74,9 +74,9 @@ reading_time: false
 <div style="text-align: center;" markdown="1">
 
 #### 06/2023 </div>
-- Gabriela was awarded a PhD fellowship by the Landesgraduiertenförderung Baden-Württemberg! 
-- Jan’s and Gabriela’s Paper is now published in PNAS: [Subspace partitioning in human prefrontal cortex resolves cognitive interference.](https://www.pnas.org/doi/10.1073/pnas.2220523120)
-- New paper led by Frank van Schalkwijk now published in Progress in Neurobiology:  [An evolutionary conserved division-of-labor between archicortical and neocortical ripples organizes information transfer during sleep.](https://authors.elsevier.com/a/1hL5b14SFmDDaU)
+- **Gabriela** was awarded a PhD fellowship by the Landesgraduiertenförderung Baden-Württemberg! 
+- **Jan** and **Gabriela**’s Paper is now published in PNAS: [Subspace partitioning in human prefrontal cortex resolves cognitive interference.](https://www.pnas.org/doi/10.1073/pnas.2220523120)
+- New paper led by **Frank van Schalkwijk** now published in Progress in Neurobiology:  [An evolutionary conserved division-of-labor between archicortical and neocortical ripples organizes information transfer during sleep.](https://authors.elsevier.com/a/1hL5b14SFmDDaU)
 - Our lab presented our research in the 48th edition of "Psychologie und Gehirn" ([PuG2023](https://pug2023.de/home/)) conference in Tübingen, Germany. **Jan Weber** and **Marit Petzka** organized a symposium about alpha oscillations and sleep spindles!
 <center>{{< figure src="spindles_symposium.jpg" class="center" >}}</center>
 
