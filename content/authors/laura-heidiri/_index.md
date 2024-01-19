@@ -1,6 +1,6 @@
 ---
 title: Laura Heidiri
-role: Master Student
+role: PhD Student
 bio:
 interests:
 social:
@@ -8,7 +8,7 @@ education:
   courses:
     - course: M.Sc. Candidate in Neural and Behavioural Sciences, 2021 
       institution: University of Tübingen
-      year: 2021 - current
+      year: 2021 - 2023
     - course: B.Sc. in Psychology
       institution: University of Würzburg
       year: 2017 – 2021

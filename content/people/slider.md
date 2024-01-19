@@ -22,6 +22,24 @@ content:
         position: center
         color: '#666'
         brightness: 0.8
+        media: 2023_christmas.jpg
+        fit: cover
+    - title:
+      content:
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.8
+        media: group-picture-2023-lab-reatreat.jpg
+        fit: cover
+    - title:
+      content:
+      align: center
+      background:
+        position: center
+        color: '#666'
+        brightness: 0.8
         media: pug2023_2.jpg
         fit: cover
     - title:

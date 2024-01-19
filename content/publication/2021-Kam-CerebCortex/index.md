@@ -1,7 +1,7 @@
 ---
 title: 'Top–Down Attentional Modulation in Human Frontal Cortex: Differential Engagement during External and Internal Attention'
 authors:
-- J. Kam,
+- J. Kam
 - Randolph Helfrich
 - A. Sobbak
 - T. Endestad
