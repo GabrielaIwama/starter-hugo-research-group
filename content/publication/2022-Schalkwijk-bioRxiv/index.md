@@ -30,8 +30,9 @@ tags:
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
+ - name: "PREPRINT"
+   url: "https://doi.org/10.1101/2022.10.19.512822"
+
 url_pdf: 'uploads/papers/2023_vanSchalkwijk_Progress_Neurobiology.pdf'
 url_code: ''
 url_dataset: ''
