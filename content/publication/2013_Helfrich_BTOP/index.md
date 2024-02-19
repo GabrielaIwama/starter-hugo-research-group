@@ -19,7 +19,7 @@ publishDate: '2016-10-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Brain Topogr.*'
+publication: '*Brain Topogr*'
 publication_short: ''
 
 abstract: Recent imaging studies in human subjects have demonstrated representations of global visual motion in medial parieto-occipital cortex (area V6) and posterior parietal cortex, the latter containing at least seven topographically organized areas along the intraparietal sulcus (IPS0-IPS5, SPL1). In this fMRI study we used topographic mapping procedures to delineate a total of 18 visual areas in human cerebral cortex and tested their responsiveness to coherent visual motion under conditions of controlled attention and fixation. Preferences for coherent visual motion as compared to motion noise as well as hemispheric asymmetries were assessed for contralateral, ipsilateral, and bilateral visual motion presentations. Except for areas V1-V4 and IPS3-5, all other areas showed stronger responses to coherent motion with the most significant activations found in V6, followed by MT/MST, V3A, IPS0-2 and SPL1. Hemispheric differences were negligible altogether suggesting that asymmetries in parietal cortex observed in cognitive tasks do not reflect differences in basic visual response properties. Interestingly, areas V6, MST, V3A, and areas along the intraparietal sulcus showed specific representations of coherent visual motion not only when presented in the hemifield primarily covered by the given visual representation but also when presented in the ipsilateral visual field. This finding suggests that coherent motion induces a switch in spatial representation in specialized motion areas from contralateral to full-field coding.
