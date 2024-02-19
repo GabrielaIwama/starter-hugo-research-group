@@ -4,6 +4,7 @@ authors:
   - Jan Weber
   - A. Solbakk
   - A. Blenkmann
+  - A. Llores
   - A. Funderud
   - S. Leske
   - P. Larsson
@@ -11,23 +12,23 @@ authors:
   - R. Knight
   - T. Endestad
   - Randolph Helfrich
-date: '2021-12-17T00:00:00Z'
-doi: '10.1101/2021.12.17.473118'
+date: '2024-20-17T00:00:00Z'
+doi: '10.1038/s41467-023-44571-7'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-01-01T00:00:00Z'
+publishDate: '2023-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*bioRxiv*'
+publication: '*Nature Communications*'
 publication_short: ''
 
-abstract: Contextual cues and prior evidence guide human goal-directed behavior. To date, the neurophysiological mechanisms that implement contextual priors to guide subsequent actions remain unclear. Here we demonstrate that increasing behavioral uncertainty introduces a shift from an oscillatory to a continuous processing mode in human prefrontal cortex. At the population level, we found that oscillatory and continuous dynamics reflect dissociable signatures that support distinct aspects of encoding, transmission and execution of context-dependent action plans. We show that prefrontal population activity encodes predictive context and action plans in serially unfolding orthogonal subspaces, while prefrontal-motor theta oscillations synchronize action-encoding population subspaces to mediate the hand-off of action plans. Collectively, our results reveal how two key features of large-scale population activity, namely continuous population trajectories and oscillatory synchrony, operate in concert to guide context-dependent human behavior.
+abstract: Contextual cues and prior evidence guide human goal-directed behavior. The neurophysiological mechanisms that implement contextual priors to guide subsequent actions in the human brain remain unclear. Using intracranial electroencephalography (iEEG), we demonstrate that increasing uncertainty introduces a shift from a purely oscillatory to a mixed processing regime with an additional ramping component. Oscillatory and ramping dynamics reflect dissociable signatures, which likely differentially contribute to the encoding and transfer of different cognitive variables in a cue-guided motor task. The results support the idea that prefrontal activity encodes rules and ensuing actions in distinct coding subspaces, while theta oscillations synchronize the prefrontal-motor network, possibly to guide action execution. Collectively, our results reveal how two key features of large-scale neural population activity, namely continuous ramping dynamics and oscillatory synchrony, jointly support rule-guided human behavior.
 
 tags:
 featured: false
@@ -35,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/papers/2021-Weber-bioRxiv.pdf'
+url_pdf: 'uploads/papers/2023_Weber_Nature_Communications.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
