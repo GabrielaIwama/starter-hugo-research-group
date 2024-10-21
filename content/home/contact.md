@@ -10,6 +10,7 @@ title: Contact
 subtitle: |-
   Our lab is located at the Hertie Institute for Clinical Brain Research
   and the Center for Neurology of the University Medical Center Tübingen
+  
   From July 2025, we will be located at the Dept. of Psychology & 
   Wu-Tsai-Institute at Yale University in New Haven, USA.
 
