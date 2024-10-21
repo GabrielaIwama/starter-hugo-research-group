@@ -1,6 +1,6 @@
 ---
-title: Judith Dehnen
-role: Master Student
+title: Sianna Grösser
+role: Internship
 bio:
 interests:
 social:
