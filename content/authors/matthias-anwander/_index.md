@@ -15,5 +15,5 @@ education:
       year: 2017 – 2020
 superuser: false
 user_groups:
-  - Members
+  - Alumni
 ---

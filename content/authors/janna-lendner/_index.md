@@ -40,7 +40,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Members
+  - Collaborators
 highlight_name: false
 ---
 

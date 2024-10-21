@@ -19,6 +19,7 @@ content:
     - Principal Investigator
     - Members
     - Alumni
+    - Collaborators
 design:
   show_interests: false
   show_role: true
