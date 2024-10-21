@@ -13,6 +13,59 @@ banner:
 reading_time: false
 
 ---
+
+***
+<div style="text-align: center;" markdown="1">
+
+#### 10/2024 </div>
+
+- Big News! We are moving (& hiring). In July 2025, we are moving to Yale University. Randolph will join the Departments of Psychology (https://psychology.yale.edu/) and Neurology (https://medicine.yale.edu/neurology/) and become a Wu-Tsai Investigator (https://wti.yale.edu/).
+- We will hire several PhD students, either through the Psychology program (https://psychology.yale.edu/graduate/admissions) or the Neuroscience program (https://medicine.yale.edu/inp/). 
+The application deadline is December 1st! 
+- If you’re interested in applying, reach out to Randolph at randolph.helfrich@yale.edu
+- New paper published in Progress in Neurobiology by Michael Hahn on information coding efficiency during human and rodent sleep! Find the paper here: https://www.sciencedirect.com/science/article/pii/S0301008224001084
+- New paper published in Journal of Neuroscience spearheaded by Janna Lendner: https://www.jneurosci.org/content/44/42/e0171242024.long. We show that human sleep is not only governed by sleep oscillations, but also by several intrinsic neural timescales that shape the 1/f background activity.
+- Isabel, Jan and Randolph were at SFN2024 in Chicago and presented new work on intrinsic timescales during human attention, the role of neural variability of cognitive flexibility and the neurophysiological basis of 1/f behaviors. Stay tuned for the manuscripts.
+- Sianna Grösser  joins the lab for an internship and will work on aperiodic sleep cycles.
+
+
+***
+<div style="text-align: center;" markdown="1">
+
+#### 09/2024 </div>
+
+- The lab turns 4! We celebrated this occasion during our annual lab retreat in the Black Forest this year ! 
+- New Spotlight published in Trends in Neurosciences: https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(24)00174-7. We discuss exciting new work that implies that non-oscillatory (or aperiodic) network states might define different sleep stages.
+- New preprint in collaboration with Sabine Kastner’s lab at Princeton on high-frequency bursts during attentional allocation: https://www.biorxiv.org/content/10.1101/2024.09.11.612548v1
+- New paper published in eNeuro, spearheaded by Markus Kopf as part of his medical thesis: https://www.eneuro.org/content/11/9/ENEURO.0242-24.2024.long where he nicely demonstrates that patients suffering from genetically generalized epilepsy exhibit altered aperiodic background activity in MEG.
+- Janna and Michi presented new work on aperiodic activity during sleep and SO-spindle coupling during cortical maturation at ESRS in Sevilla! 
+
+
+***
+<div style="text-align: center;" markdown="1">
+
+#### 06-08/2024 </div>
+
+- Randolph was interviewed by the Hertie Foundation (in German). Find the interview here: https://www.ghst.de/randolph-helfrich-interview-gesunder-schlaf 
+- Gabriela and Frank attended FENS in Vienna, where Gabriela presented new work on Belief Updating.
+- The Oxford Handbook of Human Memory is now out. Find ours and may other exciting chapters as preprints here: https://memory.psych.upenn.edu/Oxford_Handbook_of_Human_Memory
+
+***
+<div style="text-align: center;" markdown="1">
+
+#### 05/2024 </div>
+
+- The team attended PuG 2024 in Hamburg and presented several new posters !
+
+
+***
+<div style="text-align: center;" markdown="1">
+
+#### 03/2024 </div>
+
+- Matthias Anwander finished his M.Sc. thesis and graduated from the GTC in Tübingen! Congratulations. Best of luck for the future and your PhD position at the University of Augsburg 
+
+
 ***
 <div style="text-align: center;" markdown="1">
 
