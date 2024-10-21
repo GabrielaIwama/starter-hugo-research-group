@@ -1,7 +1,7 @@
 ---
 title: Matthias Anwander
 role: Master Student
-avatar_filename: avatar.jpg
+avatar_filename: 
 bio:
 interests:
 social:
