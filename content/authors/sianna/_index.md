@@ -10,5 +10,5 @@ education:
       institution: 
 superuser: false
 user_groups:
-  - Alumni
+  - Members
 ---
